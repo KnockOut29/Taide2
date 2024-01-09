@@ -1,0 +1,15 @@
+C:\Users\hanna\source\repos\Taide\Taide\bin\Debug\Taide.exe.config
+C:\Users\hanna\source\repos\Taide\Taide\bin\Debug\Taide.exe
+C:\Users\hanna\source\repos\Taide\Taide\bin\Debug\Taide.pdb
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\MainWindow.g.cs
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\App.g.cs
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide_MarkupCompile.cache
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide_MarkupCompile.lref
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\MainWindow.baml
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide.g.resources
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide.Properties.Resources.resources
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide.csproj.GenerateResource.cache
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide.exe
+C:\Users\hanna\source\repos\Taide\Taide\obj\Debug\Taide.pdb
